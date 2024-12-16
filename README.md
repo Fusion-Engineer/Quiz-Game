@@ -1,4 +1,5 @@
 Quiz Game
+
 A simple Java-based console quiz game where players can register, answer questions, and view their scores. The game loads questions from a text file and keeps track of player scores.
 
 Features
