@@ -9,23 +9,17 @@ Score tracking and leaderboard.
 
 
 How to Run
-Clone the repository:
+1. Clone the repository:
+  git clone https://github.com/your-username/quiz-game.git
 
-bash
-Copy code
-git clone https://github.com/your-username/quiz-game.git
-Navigate to the project folder:
+2. Navigate to the project folder:
+   cd quiz-game
 
-bash
-Copy code
-cd quiz-game
-Compile and run the program:
+3. Compile and run the program:
+   javac QuizGame.java
+   java QuizGame
 
-bash
-Copy code
-javac QuizGame.java
-java QuizGame
-Follow the prompts to play the quiz.
+4. Follow the prompts to play the quiz.
 
 Project Structure
 bash
