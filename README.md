@@ -10,7 +10,7 @@ Score tracking and leaderboard.
 
 How to Run
 1. Clone the repository:
-  git clone https://github.com/your-username/quiz-game.git
+  git clone https://github.com/Fusion-Engineer/Quiz-Game
 
 2. Navigate to the project folder:
    cd quiz-game
@@ -20,11 +20,3 @@ How to Run
    java QuizGame
 
 4. Follow the prompts to play the quiz.
-
-Project Structure
-bash
-Copy code
-quiz-game/
-├── QuizGame.java          # Main quiz logic
-├── questions.txt          # Quiz questions
-├── README.md              # Project documentation
